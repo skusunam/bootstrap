@@ -5,7 +5,7 @@
 [![Build Status](https://secure.travis-ci.org/angular-ui/bootstrap.png)](http://travis-ci.org/angular-ui/bootstrap)
 
 ## Demo
- 
+
 Do you want to see directives in action? Visit http://angular-ui.github.io/bootstrap/!
 
 ## Installation
